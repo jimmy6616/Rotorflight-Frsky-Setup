@@ -72,6 +72,13 @@ Under telemetry enable these options
 
 ![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page6.png)
 
+Save and Reboot
+
+Return to the receiver tab, you should now see the channel bars moving when the TX joysticks are moved. If not either the TX\RX are not bound or a step above has been missed.
+
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page7.png)
+
+
 
 
 
