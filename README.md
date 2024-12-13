@@ -54,6 +54,12 @@ Select Configuration on the left
 
 The screen is described as:
 
+Enter your craft name
+Enable Accelerometer, Barometer and CMS
+Set Port (A) or your assigned receiver port to Serial Rx
+# By default the Nexus is setup to be install horizontal pins facing towards the front, if the pins are facing to the rear enter 180 in the Yaw Degree's box.
+
+
 
 
 
