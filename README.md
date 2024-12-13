@@ -17,7 +17,9 @@ our radio is now bound to the receiver
 
 In the following example the Frsky receiver is connected to Port (A) of a Nexus controller. With the supplied cables you can connect to either Port A, B or C
 
-![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/nexus1.png)
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/nexus1.jpg)
+
+
 
 
 
