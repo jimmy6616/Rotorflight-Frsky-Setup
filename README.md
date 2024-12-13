@@ -19,7 +19,9 @@ In the following example the Frsky receiver is connected to Port (A) of a Nexus 
 
 ![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/nexus1.jpg)
 
-Connect the USB-C cable to the Nexus and connect to the PC\Laptop with the Configurator installed. The latest Rotorflight configurator can be found HERE
+Connect the USB-C cable to the Nexus and connect to the PC\Laptop with the Configurator installed. The latest Rotorflight configurator can be found [HERE](https://github.com/rotorflight/rotorflight-firmware/releases)
+
+
 
 
 
