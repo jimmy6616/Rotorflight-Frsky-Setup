@@ -46,6 +46,16 @@ Item 1 is showing board firmware and identification.
 Item 2 is showing battery connection info - At this stage the main battery is not connected.
 Item 3 is showing the Nexus firmware version and the RF Configurator version.
 
+# Configurator Initial Setup
+
+Select Configuration on the left
+
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page4.png)
+
+The screen is described as:
+
+
+
 
 
 
