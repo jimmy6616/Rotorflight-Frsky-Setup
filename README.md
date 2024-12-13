@@ -1,5 +1,5 @@
 # Rotorflight-Frsky-Setup
-Instructions for Frsky Ethos Initial Radio and Configurator Setup
+Instructions for Frsky Ethos Initial Radio and Configurator Setup, this is a generic setup using a Nexus FBL, Frsky transmitter with an frsky access receiver
 
 # Radio
 
@@ -12,8 +12,11 @@ Once the bind is successful you will see Telmetry items updating in the Model\Te
 And the radio will display signal in the top right similar to this:
 
 ![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup1-1.png)
+ 
 
-our radio is now bound to the receiver. The receiver normally shows a steady green led when the Radio is bound to the Receiver.
+Enter the Model screen and scroll to RF System, select the receiver, in this example we are using a Frsky Archer GR6Plus, click on the receiver type and select options. Under Telemetry port choose FBUS, and exit the screen. FBUS is the prefered method of connection.
+
+# Nexus and RF Configurator
 
 In the following example the Frsky receiver is connected to Port (A) of a Nexus controller. With the supplied cables you can connect to either Port A, B or C
 
@@ -31,6 +34,16 @@ This is a warning the accelerometer is not calibrated, click close and enter the
 
 
 Select SETUP on the left, hold or keep the nexus flat on the bench and click 'Calibrate Accelerometer', the top status bar will show ' Accelerometer calibration finished'
+
+Select STATUS on the left and the following page will be displayed
+
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page3.png)
+
+Item 1 is showing board firmware and identification.
+Item 2 is showing battery connection info - At this stage the main battery is not connected.
+Item 3 is showing the Nexus firmware version and the RF Configurator version.
+
+
 
 
 
