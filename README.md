@@ -8,3 +8,8 @@ Register and bind your receiver to your newly created model or a clone
 Once the bind is successful you will see Telmetry items updating in the Model\Telemetry screen, similar to this
 
 ![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup1.png)
+
+And the radio will display signal in the top right similar to this:
+
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup1-1.png)
+
