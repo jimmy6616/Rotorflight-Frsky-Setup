@@ -25,6 +25,15 @@ One connected this screen will be displayed if a new Nexus is attached.
 
 ![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page1.png)
 
+This is a warning the accelerometer is not calibrated, click close and enter the main configurator page. 
+
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page2.png)
+
+
+Select SETUP on the left, hold or keep the nexus flat on the bench and click 'Calibrate Accelerometer', the top status bar will show ' Accelerometer calibration finished'
+
+
+
 
 
 
