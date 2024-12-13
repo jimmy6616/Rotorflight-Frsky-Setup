@@ -23,7 +23,9 @@ Connect the USB-C cable to the Nexus and connect to the PC\Laptop with the Confi
 
 One connected this screen will be displayed if a new Nexus is attached.
 
-![image](
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page1.png)
+
+
 
 
 
