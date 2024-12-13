@@ -60,9 +60,14 @@ Set Port (A) or your assigned receiver port to Serial Rx
 ## By default the Nexus is setup to be installed horizontal pins facing towards the front, if the pins are facing to the rear enter 180 in the Yaw Degree's box.
 Click Save and reboot
 
-Enter the Receiver tab and select as per this view.
+Enter the Receiver tab and select the options as per this view.
 
-![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page3.png)
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page5.png)
+
+Under telemetry enable these options
+
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup-page6.png)
+
 
 
 
