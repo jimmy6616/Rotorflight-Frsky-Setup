@@ -60,7 +60,8 @@ Enable Accelerometer, Barometer and CMS
 
 Set Port (A) or your assigned receiver port to Serial Rx
 
-## By default the Nexus is setup to be installed horizontal pins facing towards the front, if the pins are facing to the rear enter 180 in the Yaw Degree's box.
+## By default the Nexus is setup to be installed horizontal servo pins facing towards the front, if the pins are facing to the rear of the heli enter 180 in the Yaw Degree's box.
+
 Click Save and reboot
 
 Enter the Receiver tab and select the options as per this view.
