@@ -16,6 +16,9 @@ And the radio will display signal in the top right similar to this:
 
 Enter the Model screen and scroll to RF System, select the receiver, in this example we are using a Frsky Archer GR6Plus, click on the receiver type and select options. Under Telemetry port choose FBUS, and exit the screen. FBUS is the prefered method of connection.
 
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/receiver-f.bus2.jpg)
+
+
 # Nexus and RF Configurator
 
 In the following example the Frsky receiver is connected to Port (A) of a Nexus controller. With the supplied cables you can connect to either Port A, B or C
