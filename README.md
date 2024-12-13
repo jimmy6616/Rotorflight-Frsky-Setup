@@ -7,4 +7,4 @@ Register and bind your receiver to your newly created model or a clone
 
 One the bind is successful you will see Telmetry items updating in the Model\Telemetry screen, similar to this
 
-![image](.img\setup1.png)
+![image](https://github.com/jimmy6616/Rotorflight-Frsky-Setup/blob/img/setup1.png)
